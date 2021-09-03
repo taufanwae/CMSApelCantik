@@ -1,0 +1,12 @@
+28-04-2021 22:19:08
+Array
+(
+    [user_id] => 15
+    [noKtp] => 3374150111910003
+    [tokenLogin] => d08ba9f267c6aa52730696ebe43850d1
+    [noHp] => 085880382838
+    [email] => trivantiko.rezki@gmail.com
+    [fullName] => trivantiko rezki
+    [file] => 
+)
+
